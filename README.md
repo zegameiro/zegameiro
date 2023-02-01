@@ -1,4 +1,4 @@
-### Hi there 👋
+### José Gameiro - Informatics Engineering Student
 
 <!--
 **zegameiro/zegameiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
