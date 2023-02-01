@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<details>
+<div>
   <summary>:zap: GitHub Stats</summary>
   
-  <img align="left" alt="zegameiro's GitHub Stats" src="https://github-readme-stats-zegameiro.vercel.app/api?username=zegameiro&show_icons=true&hide_border=true" />
+  <img align="left" alt="zegameiro's GitHub Stats" src="https://github-readme-stats-zegameiro.vercel.app/api?username=zegameiro&show_icons=true&theme=aura_dark" />
   
-</details>
+</div>
